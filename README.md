@@ -1,11 +1,12 @@
 
 <div id="header" align="center">
-    <img src="![alt text](image.png)" width="100"/>
+
+    width="100"/>
 </div>
 <div id=body>
   <div align="center">
     <h1>
-        hello :heartpulse:
+        Hello :green_heart:
 
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-rgb(0,100,0)?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-rgb(0,100,0)?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/artur_5006/)
@@ -24,7 +25,7 @@
   
   ###  About Me:sparkling_heart: :
 
-  I'm a beginner Frontend Developer :woman_technologist:
+  I'm a beginner Frontend Developer
   
   - My name is Kseniia :mage_woman:
   - I'm 16 years old 
