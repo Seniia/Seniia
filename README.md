@@ -10,7 +10,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-rgb(0,210,106)?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-rgb(0,210,106)?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/artur_5006/)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-rgb(0,210,106)?style=flat&logo=Telegram&logoColor=white)](https://t.me/sacredy27)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-rgb(0,210,106)?style=flat&logo=Gmail&logoColor=white)](ksenamamonova@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-rgb(0,210,106)?style=flat&logo=Gmail&logoColor=white)](https://mail.google.com/mail/u/0/#inbox)
 
 </h1>
 
