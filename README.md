@@ -17,7 +17,7 @@
 
 
 
-  <img src="gig/gif2.gif" width="600" >
+  <img src="gig/gif2.gif" width="400" >
 
 
   </div>
