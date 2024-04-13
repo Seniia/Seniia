@@ -7,9 +7,9 @@
     <h1>
         Hello :green_heart:
 
-[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-rgb(0,210,106)?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kseni%D1%96a-mamonova-7658882b5/)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-rgb(0,210,106)?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/_.ksunia_/)
-[![Telegram Badge](https://img.shields.io/badge/-Telegram-rgb(0,210,106)?style=flat&logo=Telegram&logoColor=white)](https://t.me/KseniaMam)
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-rgb(0,210,106)?style=flat&logo=Linkedin&logoColor=white?width="40")](https://www.linkedin.com/in/kseni%D1%96a-mamonova-7658882b5/)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-rgb(0,210,106)?style=flat&logo=Instagram&logoColor=white?width="40")](https://www.instagram.com/_.ksunia_/)
+[![Telegram Badge](https://img.shields.io/badge/-Telegram-rgb(0,210,106)?style=flat&logo=Telegram&logoColor=white?width="40")](https://t.me/KseniaMam)
 
 
 </h1>
