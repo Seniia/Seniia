@@ -23,7 +23,7 @@
   </div>
   <div id="about">
   
-  ### :anger: About Me :
+  ###  About Me: :sparkling_heart:
 
   I'm a beginner Frontend Developer :woman_technologist:
   
