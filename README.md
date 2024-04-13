@@ -25,7 +25,7 @@
   
   ### :anger: About Me :
 
-  I'm a beginner Java Developer :man_technologist:
+  I'm a beginner Frontend Developer :woman_technologist:
   
   - My name is not Artur :crossed_fingers:
   - I'm 18 years old :dizzy:
