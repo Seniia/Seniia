@@ -7,9 +7,9 @@
     <h1>
         Hello :green_heart:
 
-[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-rgb(0,210,106)?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-rgb(0,210,106)?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/artur_5006/)
-[![Telegram Badge](https://img.shields.io/badge/-Telegram-rgb(0,210,106)?style=flat&logo=Telegram&logoColor=white)](https://t.me/sacredy27)
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-rgb(0,210,106)?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kseni%D1%96a-mamonova-7658882b5/)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-rgb(0,210,106)?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/_.ksunia_/)
+[![Telegram Badge](https://img.shields.io/badge/-Telegram-rgb(0,210,106)?style=flat&logo=Telegram&logoColor=white)](https://t.me/KseniaMam)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-rgb(0,210,106)?style=flat&logo=Gmail&logoColor=white)](https://mail.google.com/mail/u/0/#inbox)
 
 </h1>
@@ -38,9 +38,14 @@
   ### :hammer_and_wrench: Languages and Tools :
 
   <div>
-      <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="60" height="60"/>&nbsp;
+      <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" title="HTML" alt="HTML" width="60" height="60"/>&nbsp;
+      <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="CSS" **alt="CSS" width="60" height="60"/>
+      <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="Java" width="60" height="60"/>&nbsp;
       <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="60" height="60"/>&nbsp;
       <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="60" height="60"/>
+      <img src="https://github.com/devicons/devicon/blob/master/icons/blender/blender-original-wordmark.svg" title="Blender" alt="Blender" width="60" height="60"/>&nbsp;
+      <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original-wordmark.svg" title="Linux" alt="Linux" width="60" height="60"/>&nbsp;
+      <img src="https://upload.wikimedia.org/wikipedia/ru/d/db/Counter-strike_2.jpg" title="CS" alt="CS" width="60" height="60"/>&nbsp;
 
 
   ---
