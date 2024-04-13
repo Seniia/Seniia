@@ -5,12 +5,11 @@
 <div id=body>
   <div align="center">
     <h1>
-        hello
-        <img src="https://media2.giphy.com/media/iNxi3TWwhwYehzY9IM/giphy.webp?cid=790b76116j4k3nlpkm1vvc6csuax9bppzlljfavhjn77mb1w&ep=v1_gifs_search&rid=giphy.webp&ct=g" width="20px"/>
+        hello :heartpulse:
 
-[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-green?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-green?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/artur_5006/)
-[![Telegram Badge](https://img.shields.io/badge/-Telegram-green?style=flat&logo=Telegram&logoColor=white)](https://t.me/sacredy27)
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-#006400?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-#006400?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/artur_5006/)
+[![Telegram Badge](https://img.shields.io/badge/-Telegram-#006400?style=flat&logo=Telegram&logoColor=white)](https://t.me/sacredy27)
 
 </h1>
 
@@ -27,8 +26,8 @@
 
   I'm a beginner Frontend Developer :woman_technologist:
   
-  - My name is not Artur :crossed_fingers:
-  - I'm 18 years old :dizzy:
+  - My name is Kseniia :mage_woman:
+  - I'm 16 years old 
 
 ---
   
