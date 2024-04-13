@@ -17,13 +17,13 @@
 
 
 
-  <img src="gig/gif2.gif" width="600" height="300"/>
+  <img src="gig/gif2.gif" width="600" >
 
 
   </div>
   <div id="about">
   
-  ###  About Me: sparkling_heart: :
+  ###  About Me: :sparkling_heart: 
 
   I'm a beginner Frontend Developer
   
