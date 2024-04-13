@@ -1,7 +1,6 @@
 
 <div id="header" align="center">
-
-    width="100"/>
+<img src="gig/gif.gif" width="100">
 </div>
 <div id=body>
   <div align="center">
@@ -17,7 +16,7 @@
 
 
 
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+  <img src="https://media2.giphy.com/media/l3vR85PnGsBwu1PFK/giphy.webp?cid=790b7611hqi7570s4fz2e3ozsfy6bgjdcio0oyds9rc8mjaz&ep=v1_gifs_search&rid=giphy.webp&ct=g" width="600" height="300"/>
 
 
   </div>
