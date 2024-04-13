@@ -7,9 +7,9 @@
     <h1>
         Hello :green_heart:
 
-[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-rgb(0,100,0)?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-rgb(0,100,0)?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/artur_5006/)
-[![Telegram Badge](https://img.shields.io/badge/-Telegram-rgb(0,100,0)?style=flat&logo=Telegram&logoColor=white)](https://t.me/sacredy27)
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-rgb(0,210,106)?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-rgb(0,210,106)?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/artur_5006/)
+[![Telegram Badge](https://img.shields.io/badge/-Telegram-rgb(0,210,106)?style=flat&logo=Telegram&logoColor=white)](https://t.me/sacredy27)
 
 </h1>
 
