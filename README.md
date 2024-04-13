@@ -17,7 +17,7 @@
 
 
 
-  <img src="https://media2.giphy.com/media/l3vR85PnGsBwu1PFK/giphy.webp?cid=790b7611hqi7570s4fz2e3ozsfy6bgjdcio0oyds9rc8mjaz&ep=v1_gifs_search&rid=giphy.webp&ct=g" width="600" height="300"/>
+  <img src="gig/gif2.gif" width="600" height="300"/>
 
 
   </div>
@@ -54,6 +54,6 @@
   
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Seniia&theme=dark&background=000000)](https://git.io/streak-stats)
 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sacredyy&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats) 
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Seniia&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats) 
   </div>
 </div>
