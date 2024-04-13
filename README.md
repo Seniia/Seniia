@@ -1,16 +1,16 @@
 
 <div id="header" align="center">
-    <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+    <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTkxbm1pa3FydWQ4Y3BpdTFtOHVzYWp4azEzdWprNndtdjhhOHhmcCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/VbnUQpnihPSIgIXuZv/giphy.webp" width="100"/>
 </div>
 <div id=body>
   <div align="center">
     <h1>
-        hey everyone
-        <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px"/>
+        hello
+        <img src="https://media2.giphy.com/media/iNxi3TWwhwYehzY9IM/giphy.webp?cid=790b76116j4k3nlpkm1vvc6csuax9bppzlljfavhjn77mb1w&ep=v1_gifs_search&rid=giphy.webp&ct=g" width="20px"/>
 
-[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-red?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/artur_5006/)
-[![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/sacredy27)
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=green)](your-linkedin-url)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-red?style=flat&logo=Instagram&logoColor=green)](https://www.instagram.com/artur_5006/)
+[![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat&logo=Telegram&logoColor=green)](https://t.me/sacredy27)
 
 </h1>
 
@@ -23,7 +23,7 @@
   </div>
   <div id="about">
   
-  ###  About Me :sparkling_heart: :
+  ###  About Me:sparkling_heart: :
 
   I'm a beginner Frontend Developer :woman_technologist:
   
