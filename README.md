@@ -28,7 +28,7 @@
   I'm a beginner Frontend Developer
   
   - My name is Kseniia :mage_woman:
-  - I'm 16 years old 
+  - I'm 17 years old 
 
 ---
   
