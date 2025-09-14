@@ -1,6 +1,5 @@
 
 <div id="header" align="center">
-<img src="gig/gif.gif" width="200">
 </div>
 <div id=body>
   <div align="center">
@@ -14,18 +13,10 @@
 
 </h1>
 
-
-
-
-  <img src="gig/gif2.gif" width="400" >
-
-
   </div>
   <div id="about">
   
   ###  About Me: :sparkling_heart: 
-
-  I'm a beginner Frontend Developer
   
   - My name is Kseniia :mage_woman:
   - I'm 18 years old 
